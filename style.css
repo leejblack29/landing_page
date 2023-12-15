@@ -39,7 +39,7 @@ body {
     align-items: stretch;
 }
 
-#greeting #content {
+#greeting .content {
     background-color: white;
     color: black;
     flex-direction: column;
@@ -48,7 +48,7 @@ body {
     justify-content: space-between;
 }
 
-#content h1 {
+.content h1 {
     margin: 0;
 }
 
