@@ -19,6 +19,18 @@ body {
     flex-grow: 0;
 }
 
+#header {
+    justify-content: space-between;
+    padding: 16px;
+}
+
+#header ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    gap: 16px;
+}
 
 
 #greeting {
