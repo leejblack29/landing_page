@@ -91,6 +91,15 @@ body {
     background-color: lightslategray;
     color: black;
     flex-direction: column;
+    justify-content: space-between;
+}
+
+#quote {
+    align-self: flex-start;
+}
+
+#author {
+    align-self: flex-end;
 }
 
 #call-to-action {
