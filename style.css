@@ -87,7 +87,7 @@ body {
     gap: 16px;
 }
 
-#quote {
+#quote-section {
     background-color: lightslategray;
     color: black;
     flex-direction: column;
