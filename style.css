@@ -61,6 +61,8 @@ body {
 #info  {
     background-color: rgba(80, 30, 80, 0.74);
     color: black;
+    flex-direction: column;
+    padding: 64px;
 }
 
 #quote {
