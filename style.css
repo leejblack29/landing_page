@@ -1,0 +1,22 @@
+#header, #footer, #greeting {
+    background-color: black;
+    color: rgba(230, 219, 219, 0.863);
+}
+
+#info  {
+    background-color: rgba(80, 30, 80, 0.74);
+    color: black;
+}
+
+#quote {
+    background-color: lightslategray;
+    color: black;
+}
+
+#call-to-action {
+    background-color: grey;
+    color: black;
+}
+
+
+
