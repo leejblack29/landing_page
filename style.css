@@ -65,7 +65,7 @@ body {
     padding: 64px;
 }
 
-.box {
+#info-links img {
     width: 100px;
     height: 100px;
     background-color: white;
