@@ -38,6 +38,10 @@ body {
     font-weight: bold;
 }
 
+#links a {
+    text-decoration: none;
+}
+
 
 #greeting {
     background-color: rgb(58, 58, 58);
