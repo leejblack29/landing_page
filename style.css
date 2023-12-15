@@ -1,13 +1,13 @@
+.flex {display: flex;}
+
 body {
     height: 100vh;
-    display: flex;
     flex-direction: column;
     text-align: center;
     margin: 0;
 }
 
 .section { 
-    display: flex;
     justify-content: center;
     align-items: center;
     flex-grow: 1;
@@ -25,7 +25,6 @@ body {
 }
 
 #header ul {
-    display: flex;
     margin: 0;
     padding: 0;
     list-style-type: none;
