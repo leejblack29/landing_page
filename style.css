@@ -80,6 +80,9 @@ body {
     flex-direction: column;
 }
 
+#info-links {
+    gap: 16px;
+}
 
 #quote {
     background-color: lightslategray;
