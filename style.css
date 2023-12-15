@@ -37,6 +37,17 @@ body {
     color: lightgray;
 }
 
+#greeting #content {
+    background-color: white;
+    color: black;
+}
+
+#greeting #img {
+    width: 50px;
+    height: 50px;
+    background-color: white;
+}
+
 #info  {
     background-color: rgba(80, 30, 80, 0.74);
     color: black;
