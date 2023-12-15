@@ -11,6 +11,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-grow: 1;
+    padding: 64px;
 }
 
 #header, #footer {
@@ -35,7 +36,6 @@ body {
 #greeting {
     background-color: rgb(58, 58, 58);
     color: lightgray;
-    padding: 64px;
     align-items: stretch;
 }
 
@@ -62,7 +62,6 @@ body {
     background-color: rgba(80, 30, 80, 0.74);
     color: black;
     flex-direction: column;
-    padding: 64px;
 }
 
 #info-links img {
@@ -81,8 +80,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    align-items: stretch;
-    
+    align-items: stretch;  
 }
 
 #info-links {
@@ -92,6 +90,7 @@ body {
 #quote {
     background-color: lightslategray;
     color: black;
+    flex-direction: column;
 }
 
 #call-to-action {
