@@ -15,7 +15,10 @@ body {
 #header, #footer {
     background-color: black;
     color: rgba(230, 219, 219, 0.863);
+    flex-grow: 0;
 }
+
+
 
 #greeting {
     background-color: rgb(58, 58, 58);
