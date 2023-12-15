@@ -35,12 +35,19 @@ body {
 #greeting {
     background-color: rgb(58, 58, 58);
     color: lightgray;
+    padding: 32px;
 }
 
 #greeting #content {
     background-color: white;
     color: black;
     flex-direction: column;
+    text-align: left;
+    align-items: flex-start;
+}
+
+#content h1 {
+    margin: 0;
 }
 
 #greeting #img {
