@@ -113,9 +113,11 @@ body {
     padding: 16px;
 }
 
-#call-to-action .content .text {
+#action-text {
     flex-direction: column;
 }
+
+
 
 
 
