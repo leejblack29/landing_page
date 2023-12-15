@@ -9,9 +9,14 @@ body {
     flex-grow: 1;
 }
 
-#header, #footer, #greeting {
+#header, #footer {
     background-color: black;
     color: rgba(230, 219, 219, 0.863);
+}
+
+#greeting {
+    background-color: rgb(58, 58, 58);
+    color: lightgray;
 }
 
 #info  {
