@@ -35,7 +35,7 @@ body {
 #greeting {
     background-color: rgb(58, 58, 58);
     color: lightgray;
-    padding: 32px;
+    padding: 64px;
     align-items: stretch;
 }
 
@@ -45,6 +45,7 @@ body {
     flex-direction: column;
     text-align: left;
     align-items: flex-start;
+    justify-content: space-between;
 }
 
 #content h1 {
