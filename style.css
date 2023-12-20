@@ -86,7 +86,7 @@ body {
     color: lightgrey;
     font-size: larger;
     font-weight: bold;
-    box-shadow: 5px 10px #888888;
+    border-radius: 10px;
 }
 
 #info  {
