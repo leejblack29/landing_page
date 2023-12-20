@@ -61,21 +61,19 @@ body {
     justify-content: space-around;
     font-size: larger;
     padding: 16px;
+    border-bottom-left-radius: 25px;
+    border-top-left-radius: 25px;
 }
 
 #greeting-img {
     max-height: 800px;
     max-width: 800px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
 }
 
 .content h1 {
     margin: 0;
-}
-
-#greeting #img {
-    width: 800px;
-    background-color: white;
-    background-color: red;
 }
 
 #greeting button {
