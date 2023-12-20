@@ -49,15 +49,23 @@ body {
     background-color: rgb(58, 58, 58);
     color: lightgray;
     align-items: stretch;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 #greeting .content {
-    background-color: white;
+    background-color: lightslategray;
     color: black;
     flex-direction: column;
-    text-align: left;
-    align-items: flex-start;
-    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    font-size: larger;
+    padding: 16px;
+}
+
+#greeting-img {
+    max-height: 800px;
+    max-width: 800px;
 }
 
 .content h1 {
@@ -68,6 +76,15 @@ body {
     width: 800px;
     background-color: white;
     background-color: red;
+}
+
+#greeting button {
+    height: 80px;
+    width: 160px;
+    background-color: black;
+    color: lightgrey;
+    font-size: larger;
+    font-weight: bold;
 }
 
 #info  {
