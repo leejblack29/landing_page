@@ -96,7 +96,8 @@ body {
 }
 
 #info-links img {
-    height: 100px;
+    height: 300px;
+    width: 300px;
     background-color: white;
     border: solid black;
 }
@@ -115,7 +116,7 @@ body {
 }
 
 #info-links {
-    gap: 16px;
+    gap: 256px;
 }
 
 #quote-section {
