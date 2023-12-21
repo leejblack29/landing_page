@@ -136,13 +136,11 @@ body {
     justify-content: space-between;
 }
 
-#quote {
-    align-self: flex-start;
+#quote, #author{
+    align-self: center;
 }
 
-#author {
-    align-self: flex-end;
-}
+
 
 #call-to-action {
     background-color: grey;
