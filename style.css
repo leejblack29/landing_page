@@ -101,6 +101,7 @@ body {
     height: 200px;
     background-color: white;
     border: solid black;
+    border-radius: 10px;
 }
 
 #info-links button {
@@ -126,7 +127,7 @@ body {
 
 #info-links {
     gap: 256px;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 #quote-section {
