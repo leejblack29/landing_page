@@ -149,11 +149,12 @@ body {
 
 #call-to-action .content {
     background-color: rgba(80, 30, 80, 0.74);
-    color: white;
+    color: lightgrey;
     padding: 16px;
     align-items: center;
     justify-content: space-between;
     gap: 32px;
+    border-radius: 10px;
 }
 
 #action-text {
@@ -163,9 +164,20 @@ body {
     justify-content: space-between;
     gap: 16px;
     flex-wrap: wrap;
+    font-weight: bold;
 }
 
 #action-header, #action-para {
+    margin: 0;
+}
+
+#call-to-action button {
+    background-color: black;
+    color: lightgray;
+    font-weight: bold;
+    font-size: larger;
+    padding: 8px;
+    border-radius: 10px;
     margin: 0;
 }
 
